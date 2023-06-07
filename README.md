@@ -1,1 +1,2 @@
 # Weighting-based-Deep-Ensemble-Learning
+This study proposes a new weighting-based deep ensemble model for recognizing interventionalists’ hand motions in manual and robotic intravascular catheterization. The model has a module of neural layers for extracting features in electromyography data, and an ensemble of machine learning methods for classifying interventionalists’ hand gestures as one of the six hand motions used during catheterization. A soft-weighting technique is applied to guide the contributions of each base learners.
